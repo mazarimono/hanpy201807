@@ -41,5 +41,9 @@ http://www.morningstar.co.jp/FundData/FundRankingJyunshisan.do
 
 --- 
 
+- 導入方法
+```python3
+pip install pandas_datareader
+```
 
- 
+
