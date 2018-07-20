@@ -43,7 +43,17 @@ http://www.morningstar.co.jp/FundData/FundRankingJyunshisan.do
 
 - 導入方法
 ```python3
-pip install pandas_datareader
+pip install pandas_datareader     
 ```
+- 注意　Pandasとは別     
+      
+- 経済データなどが取れるライブラリ。色々なソースからデータが取得できます。      
+http://pandas-datareader.readthedocs.io/en/latest/     
+     
+- 今回はFREDからデータを取ります。     
+https://research.stlouisfed.org/       
 
+===> jupyter notebookへ     
+
+---     
 
