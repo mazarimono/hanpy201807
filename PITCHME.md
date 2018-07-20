@@ -28,10 +28,10 @@ https://www.nikkei.com/article/DGXMZO32607510U8A700C1EE9000/
 - 投信のことならモーニングスター     
 http://www.morningstar.co.jp/FundData/FundRankingJyunshisan.do      
      
-トップには日本株のETFが並んでいます。     
+- トップには日本株のETFが並んでいます。     
 ===> これには理由が     
       
-それに続くのは米国のREIT     
+- それに続くのは米国のREIT     
 ===> REITとは      
 
 ---      
@@ -57,3 +57,8 @@ https://research.stlouisfed.org/
 
 ---     
 
+- データがこれだけ取れると機械学習とかにもこれを使ってー      
+      
+# 完
+
+----    
